@@ -1,4 +1,4 @@
-PCA analysis of mm285 syntenic probes 
+#PCA analysis of mm285 syntenic probes 
 library(tidyverse)
 library(readxl)
 library(Rtsne)
